@@ -63,10 +63,8 @@ python main.py
 | Absolutely fantastic product! Exceeded all my expectations. | positive | GPT-4o-Mini |
 | It's okay, nothing extraordinary but does the job. | neutral | GPT-4o-Mini |
 | Terrible experience. Would not recommend to anyone. | negative | GPT-4o-Mini |
-| The packaging was damaged but the product works fine. | neutral | Llama-3.1-8B |
-| I love this so much, best purchase ever! | positive | Llama-3.1-8B |
 
-## 📤 Пример выходных данных (results.json)
+## 📤 Пример выходных данных (sentiment_analysis_result.json)
 
 ```json
 [
