@@ -1,0 +1,52 @@
+[
+    {
+        "review": "The movie was a complete snoozefest.  I regretted every second.  Total waste of money.",
+        "true_sentiment": "negative",
+        "predicted_sentiment": "Negative"
+    },
+    {
+        "review": "Seriously, the worst venue I've ever been to.  The sound was terrible, the seats uncomfortable, and the staff rude.",
+        "true_sentiment": "negative",
+        "predicted_sentiment": "Negative"
+    },
+    {
+        "review": "This event was so poorly organized, it was a joke.  I left early, feeling ripped off.",
+        "true_sentiment": "negative",
+        "predicted_sentiment": "Negative"
+    },
+    {
+        "review": "What a disaster of a movie!  The acting was awful, the plot was nonsensical, and the special effects were cheesy.",
+        "true_sentiment": "negative",
+        "predicted_sentiment": "Negative"
+    },
+    {
+        "review": "I wouldn't recommend this venue to my worst enemy.  It was dirty, cramped, and overpriced.",
+        "true_sentiment": "negative",
+        "predicted_sentiment": "Negative"
+    },
+    {
+        "review": "The event was a complete letdown.  The performers were underwhelming, and the whole thing felt rushed.",
+        "true_sentiment": "negative",
+        "predicted_sentiment": "Negative"
+    },
+    {
+        "review": "This movie was boring and predictable. I could have stayed home and watched paint dry.",
+        "true_sentiment": "negative",
+        "predicted_sentiment": "Negative"
+    },
+    {
+        "review": "The sound system at the venue was atrocious. I couldn't hear anything properly.",
+        "true_sentiment": "negative",
+        "predicted_sentiment": "Negative"
+    },
+    {
+        "review": "The event was poorly advertised and even worse in reality.  A total waste of time.",
+        "true_sentiment": "negative",
+        "predicted_sentiment": "Negative"
+    },
+    {
+        "review": "This movie had a terrible plot and unbelievable acting. I'm asking for my money back.",
+        "true_sentiment": "negative",
+        "predicted_sentiment": "Negative"
+    }
+]
